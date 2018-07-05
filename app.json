@@ -22,12 +22,6 @@
         "selectedIconPath": "images/tab/music.png"
       },
       {
-        "pagePath": "pages/videos/videos",
-        "text": "视频",
-        "iconPath": "images/tab/video1.png",
-        "selectedIconPath": "images/tab/video.png"
-      },
-      {
         "pagePath": "pages/review/review",
         "text": "影评",
         "iconPath": "images/tab/review1.png",
