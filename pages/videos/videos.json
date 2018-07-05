@@ -1,0 +1,9 @@
+{
+  "component": true,
+  "enablePullDownRefresh": true,
+  "navigationBarTitleText": "短视频",
+  "navigationBarBackgroundColor": "#d81e06",
+  "usingComponents": {
+    "wxc-loadmore": "/components/loadmore/loadmore"
+  }
+}

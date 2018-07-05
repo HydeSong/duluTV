@@ -1,0 +1,9 @@
+{
+  "component": true,
+  "enablePullDownRefresh": true,
+  "navigationBarTitleText": "听见好声音",
+  "navigationBarBackgroundColor": "#d81e06",
+  "usingComponents": {
+    "wxc-loadmore": "/components/loadmore/loadmore"
+  }
+}
